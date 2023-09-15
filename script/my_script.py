@@ -1,2 +1,2 @@
 
-print('Baptiste is the worst Git teacher')
+print('Baptiste is the best Git teacher')
